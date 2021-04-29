@@ -3,9 +3,7 @@
 
 This project is called **Reddit Automation**.  You can post in Reddit from the terminal. It's faster and easier.  
 
-```
-![Reddit Logo](reddit-logo.png)
-```
+![Reddit Logo](./reddit-logo.png)
 
 # Files
 
